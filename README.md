@@ -61,3 +61,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # SE_Inventory
+
+
+รูปแบบของงานเเลระบบการทำงาน by Figma
+https://www.figma.com/community/file/1023936588419733026/Inventory
